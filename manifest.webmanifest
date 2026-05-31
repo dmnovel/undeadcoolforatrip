@@ -1,0 +1,10 @@
+{
+  "name": "재정가검색",
+  "short_name": "재정가검색",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fffdf9",
+  "theme_color": "#fffdf9",
+  "lang": "ko",
+  "icons": []
+}
